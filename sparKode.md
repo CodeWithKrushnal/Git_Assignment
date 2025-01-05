@@ -1,5 +1,5 @@
 # SparKode Assessment
 
-![Enter image alt description](Images/s7Z_Image_2.png)
+![Screenshot (154)](https://github.com/user-attachments/assets/83eec7f2-2c21-44b2-b1d1-6f637e39cc8e)
 
-![Enter image alt description](Images/KQl_Image_3.png)
+![Screenshot (155)](https://github.com/user-attachments/assets/9162e998-4804-4724-a3c2-8af0b1a9afaf)
