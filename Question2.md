@@ -47,8 +47,8 @@ origin  git@github.com-codewithkrushnal:CodeWithKrushnal/Git_Assignment.git (pus
 
 1. **Github Remote (****[https://github.com/CodeWithKrushnal/Git_Assignment.git](https://github.com/CodeWithKrushnal/Git_Assignment.git)****)**
 
-![Enter image alt description](Images/dnQ_Image_4.png)
+![Screenshot (156)](https://github.com/user-attachments/assets/beb11127-4f69-4feb-9763-6c44df9fa620)
 
 2. **GitLab Remote (****[https://gitlab.com/krushnal.patil/Git_Assignment.git](https://gitlab.com/krushnal.patil/Git_Assignment.git)****)**
 
-![Enter image alt description](Images/IkY_Image_5.png)
+![Screenshot (157)](https://github.com/user-attachments/assets/f39cc72e-4960-4d80-9c33-f0463bcb765a)
