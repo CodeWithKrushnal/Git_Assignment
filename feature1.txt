@@ -1,1 +1,1 @@
-Feature 1 content is edited
+Feature 1 content
